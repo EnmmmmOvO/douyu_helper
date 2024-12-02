@@ -1,10 +1,3 @@
-# 如果你需要fork这个库，请将`main.py`此处删除，这里是森空岛的每日签到，和斗鱼签到无关
-```python
-if __name__ == '__main__':
-    run()
-    start() # <-------- 删除这个即可
-```
-
 <div align="center">
 <h1 align="center">
 DouYu-Helper
